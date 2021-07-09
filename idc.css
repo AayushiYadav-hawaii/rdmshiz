@@ -1,0 +1,83 @@
+body{
+    background-color: rgb(152, 175, 209);
+}
+
+
+h1{
+    color:rgb(124, 88, 88) ;
+   size: 70px;
+}
+.in1{
+    background-color: rgb(112, 146, 160);
+    border-radius:  10px;
+    border-width: 30px;
+    border-color: teal;
+    box-shadow: 20px 20px 20px  rgb(98, 94, 122);
+    height: 60px;
+}
+
+.in2{
+    background-color: rgb(112, 146, 160);
+    border-radius:  10px;
+    border-width: 30px;
+    border-color: rgb(169, 169, 200);
+    box-shadow: 20px 20px 20px  rgb(98, 94, 122);
+    height: 60px;
+}
+
+.in3{
+    background-color: rgb(112, 146, 160);
+    border-radius:  10px;
+    border-width: 30px;
+    border-color: rgb(231, 240, 202);
+    box-shadow: 20px 20px 20px  rgb(98, 94, 122);
+    height: 60px;
+}
+.bpimg{
+    width: 270px;
+    height: 150px;
+    border-radius: 10px;
+    border-color: maroon;
+    border-width: 5px;
+    
+}
+
+.nctimg{
+    width: 270px;
+    height: 150px;
+    border-radius: 10px;
+    border-color: maroon;
+    border-width: 5px;
+    
+}
+.btn1{
+    border-radius: 50px;
+    background-color: rosybrown;
+    color:steelblue;
+    height: 60px;
+    width: 100px;
+}
+
+.btn2{
+    border-radius: 50px;
+    background-color: rgb(105, 158, 155);
+    color:rgb(233, 224, 229);
+    height: 60px;
+    width: 100px;
+}
+
+.btn3{
+    border-radius: 50px;
+    background-color: rgb(238, 255, 199);
+    color:rgb(12, 17, 82);
+    height: 60px;
+    width: 100px;
+}
+.s2img{
+    width: 270px;
+    height: 150px;
+    border-radius: 10px;
+    border-color: maroon;
+    border-width: 5px;
+    
+}
